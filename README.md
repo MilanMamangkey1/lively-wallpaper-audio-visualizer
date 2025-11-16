@@ -13,8 +13,8 @@ An interactive audio visualizer wallpaper for [Lively Wallpaper](https://github.
 ## Installation
 
 1. Install [Lively Wallpaper](https://github.com/rocksdanister/lively)
-2. Download or clone this repository
-3. In Lively Wallpaper, add the wallpaper by selecting the `index.html` file
+2. Download this repository as a ZIP file (Code → Download ZIP)
+3. In Lively Wallpaper, click "Add Wallpaper" and drag-and-drop the ZIP file, or choose "Choose a file" to select it
 
 ## Configuration
 
